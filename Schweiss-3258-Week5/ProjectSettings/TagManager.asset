@@ -6,6 +6,7 @@ TagManager:
   tags:
   - block
   - score
+  - balldie
   layers:
   - Default
   - TransparentFX
